@@ -52,7 +52,12 @@ html {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px; }
+ 
 
+.first-line-icons{
+  font-size: 10px;
+  
+}
 .no-gutters {
   margin-right: 0;
   margin-left: 0; }
