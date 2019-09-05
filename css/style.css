@@ -7905,6 +7905,7 @@ header {
     text-transform: uppercase; }
     @media (min-width: 992px) {
       .wrap .about-desc .bold-text {
+        z-index: -1;
         font-size: 10em; } }
     @media (max-width: 991.98px) {
       .wrap .about-desc .bold-text {
